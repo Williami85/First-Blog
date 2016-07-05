@@ -1,0 +1,53 @@
+
+
+
+body{background-color:LightGrey;
+
+
+}
+
+
+img{ width:300px;
+height:300px;
+}
+
+#airplanesky{width: 500px;
+height:250px;
+margin:10px;
+
+width:250px;
+float:left;
+}
+
+h1{center:left;
+border:inline block;
+color:yellow;}
+
+#town{display:block;
+margin:0px auto;}
+
+#endoftrail2{display:block;
+margin:10px;}
+
+h2{text-align:center;
+}
+
+p{text-align:justify;
+}
+
+h4{text-align:center;
+}
+
+h1{text-align:center;}
+
+h2{color:red;
+border:inline block;
+}
+
+#town{text-align:center;}
+
+h3{text-align:center;}
+
+a{text-align:center;}
+
+
